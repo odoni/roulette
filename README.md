@@ -4,7 +4,7 @@ Simple command line and multi player Roulette game.
 ## Instructions to run
 Create a runnable jar file
 ```txt
-  ./gradlew clean test build jar
+./gradlew clean test build jar
 ``` 
 
 Run the game
